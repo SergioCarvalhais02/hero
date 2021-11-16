@@ -5,8 +5,6 @@ import com.googlecode.lanterna.graphics.TextGraphics;
 
 import java.util.Random;
 
-//new monster
-
 public class Monster2 extends Monster{
 
     public Monster2(int x, int y){
